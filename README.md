@@ -1,4 +1,11 @@
 # ChatGPT资料汇总持续更新中
+
+## ChatGPT注册方法及Plus升级方法
+* [ChatGPT注册教程](https://wvjj4la592.feishu.cn/docx/G7PHddfuuoBW78x38s9c2H8bnvd)
+* [国内升级ChatGPT Plus保姆级教](https://wvjj4la592.feishu.cn/docx/BWL5d5xUmoryt3xrK9lcxZCUnHb)
+
+* 如果账号感觉注册困难，想要付费购买的，可以加我微信，拉你入群并咨询群里管理员“郑小鹿”
+
 ## [技术科普及相关调研-pdf](./docs/Investigations/)
 * [ChatGPT 研究框架（2023）-国泰君安.pdf](./docs/Investigations/ChatGPT%20研究框架（2023）-%20国泰君安.pdf)
 * [ChatGPT研究框架-230214-浙商证券.pdf](./docs/Investigations/ChatGPT研究框架-230214-浙商证券.pdf)
@@ -55,7 +62,6 @@
 * [深度思考：AIGC这波技术狂潮能否商业化落地？（内含思维导图）](https://mp.weixin.qq.com/s?__biz=MzUxNTg3NjA5Mg==&mid=2247483839&idx=1&sn=db2eb28a83ac449d0d92af2929aa622d&chksm=f9aeb42cced93d3aad4c8a36b53f6842de593af3df740d084e7efcf864fe4ac171e839446e26&scene=21#wechat_redirect)
 
 
-
 # 合作邮箱
 
 victor.xsyang@gmail.com
@@ -66,7 +72,7 @@ https://blog.csdn.net/u010665216?type=blogF
 
 
 # 技术交流群
-![技术交流群](./imgs/ChatGPT%E4%BA%A4%E6%B5%81%E7%BE%A4.jpeg)
+![技术交流群](./imgs/ChatGPT%E4%BA%A4%E6%B5%81%E7%BE%A4.jpg)
 
 # 个人微信
 群若失效请加个人微信拉群
