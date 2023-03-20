@@ -35,6 +35,11 @@
 * [ChatGPT 巨头新动态与应用新场景.pdf](./docs/Investigations/%E6%B0%91%E7%94%9F%E8%AF%81%E5%88%B8-%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A1%8C%E4%B8%9A%E5%91%A8%E6%8A%A5%EF%BC%9AChatGPT%E5%B7%A8%E5%A4%B4%E6%96%B0%E5%8A%A8%E6%80%81%E4%B8%8E%E5%BA%94%E7%94%A8%E6%96%B0%E5%9C%BA%E6%99%AF.pdf)
 * [chatgpt巨头都在干什么？.pdf](./docs/Investigations/chatgpt巨头都在干什么？.pdf)
 * [ChatGPT 引发的大模型时代变革.pdf](./docs/Investigations/ChatGPT%20%E5%BC%95%E5%8F%91%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%97%B6%E4%BB%A3%E5%8F%98%E9%9D%A9.pdf)
+* [ChatGPT 系列之二：全球商业化落地加速，新一轮算力储备开启.pdf](./docs/Investigations/ChatGPT%20%E7%B3%BB%E5%88%97%E4%B9%8B%E4%BA%8C%EF%BC%9A%E5%85%A8%E7%90%83%E5%95%86%E4%B8%9A%E5%8C%96%E8%90%BD%E5%9C%B0%E5%8A%A0%E9%80%9F%EF%BC%8C%E6%96%B0%E4%B8%80%20%E8%BD%AE%E7%AE%97%E5%8A%9B%E5%82%A8%E5%A4%87%E5%BC%80%E5%90%AF.pdf)
+* [ChatGPT 系列之三：技术奇点已至，多模态时代开启.pdf](./docs/Investigations/ChatGPT%20%E7%B3%BB%E5%88%97%E4%B9%8B%E4%B8%89%EF%BC%9A%E6%8A%80%E6%9C%AF%E5%A5%87%E7%82%B9%E5%B7%B2%E8%87%B3%EF%BC%8C%E5%A4%9A%E6%A8%A1%E6%80%81%20%E6%97%B6%E4%BB%A3%E5%BC%80%E5%90%AF.pdf)
+* [AIGC行业快评：GPT-4、文心一言陆续发布，场景落地逐步成为AIGC产业核心.pdf](./docs/Investigations/AIGC%E8%A1%8C%E4%B8%9A%E5%BF%AB%E8%AF%84%EF%BC%9AGPT-4%E3%80%81%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80%E9%99%86%E7%BB%AD%E5%8F%91%E5%B8%83%EF%BC%8C%E5%9C%BA%E6%99%AF%E8%90%BD%E5%9C%B0%E9%80%90%E6%AD%A5%E6%88%90%E4%B8%BAAIGC%E4%BA%A7%E4%B8%9A%E6%A0%B8%E5%BF%83%20.pdf)
+* [文心一言、GPT3.5及GPT-4的应用测评对比.pdf](./docs/Investigations/%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80%E3%80%81GPT3.5%E5%8F%8AGPT-4%E7%9A%84%E5%BA%94%E7%94%A8%E6%B5%8B%E8%AF%84%E5%AF%B9%E6%AF%94.pdf)
+
 
 ## 网络文章科普
 * [宇宙最强-GPT-4 横空出世：最先进、更安全、更有用
