@@ -1,4 +1,11 @@
-# ChatGPT资料汇总持续更新中
+# ChatGPT&AIGC 全网最详细的资料汇总【持续更新中】
+
+# 扫码加入知识星球
+扫码加入【ChatGPT&AIGC知识星球】和行业大咖一起交流探讨，在星球中我们收集了目前全网最详细的资料！从案例到教程，从开源项目到商业变现案例，应有尽有！
+同时我们还邀请了来自百度、阿里、字节跳动等部门负责人作为星球嘉宾，可以向他们提问交流！
+最后我们还链接了一些行业资深猎头，可以为大家提供就业咨询，如果对ChatGPT&AIGC感兴趣的从业者或非从业者，欢迎加群交流！
+![技术交流群](./imgs/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.jpeg)
+
 
 ## ChatGPT注册方法及Plus升级方法
 * [ChatGPT注册教程](https://wvjj4la592.feishu.cn/docx/G7PHddfuuoBW78x38s9c2H8bnvd)
@@ -66,14 +73,158 @@
 * [关于ChatGPT八个技术问题的猜想](https://mp.weixin.qq.com/s/n_d_NzYf-DgmmJNY8rm4Sw)
 * [深度思考：AIGC这波技术狂潮能否商业化落地？（内含思维导图）](https://mp.weixin.qq.com/s?__biz=MzUxNTg3NjA5Mg==&mid=2247483839&idx=1&sn=db2eb28a83ac449d0d92af2929aa622d&chksm=f9aeb42cced93d3aad4c8a36b53f6842de593af3df740d084e7efcf864fe4ac171e839446e26&scene=21#wechat_redirect)
 
+## 使用技巧 提示工程
+* [chatgpt提示工程专栏：不写代码、年薪百万，带你玩赚ChatGPT提示工程](https://blog.csdn.net/u010665216/category_12217154.html)
+* [ChatGPT中国应用社区实践总结出来的独创问答预设输入方法](https://www.toutiao.com/article/7196135906489811515/?log_from=f6cceebf264ce8_1676736989327)
+* [Prompt模版市场：DALL·E, GPT-3, Midjourney, Stable Diffusion, ChatGPT Prompt Marketplace](https://promptbase.com/)
+* [英文prompt指南：Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts#-awesome-chatgpt-prompts)
+* [如何利用chatGPT学英语？](https://mp.weixin.qq.com/s/U-tGtYFohS2CCbe5Ulz21g)
+* [prompt工作流平台：The Premier Platform for Optimizing Workflow](https://flowgpt.com/)
+* [有了这份ChatGPT 有效对话技巧和使用指南，他会更懂你！](https://mp.weixin.qq.com/s/0TUycNb2rXLTerF4V8r2mA)
+* [万能的ChatGPT无法准确解答数学问题，有大神找到了解决方案](https://www.toutiao.com/article/7193685914848297528/?log_from=6cb324550da58_1676735513293)
+* [Share your wildest ChatGPT conversations with one click.](https://sharegpt.com/)
+* [浏览分享讨论chatgpt示例](https://www.emergentmind.com/)
+* [How to write an effective GPT-3 prompt](https://zapier.com/blog/gpt-3-prompt/)
+* [ChatGPT 使用资源聚合盘点](https://sspai.com/post/78399)
+* [用 ChatGPT 写文章、论文，你有哪些绝活？](https://www.zhihu.com/question/581386774/answer/2895915427)
 
-# 合作邮箱
+## 技术教程
+* [提示工程课学习](https://learnprompting.org/zh-Hans/docs/basics/intro)
+* [OpenAI API文档](https://platform.openai.com/docs/guides/completion/introduction)
+* [AI 应用第一次大爆发来了：一文入门 ChatGPT 官方 API 文档解读](https://mp.weixin.qq.com/s/xKExN-NbxTFn_eUcvUGR_w)
+* [使用Openai api 和GPT index使用自定义知识库构建AI聊天机器人](https://www.youtube.com/watch?v=vDZAZuaXf48)
+* [应用chatgpt-vercel超简单的部署属于自己的私人助理](https://github.com/ourongxing/chatgpt-vercel)
+* [ChatGPT 背后的技术路线问题](https://mp.weixin.qq.com/s/P1T-XGeLXc1FA3le66-Aww)
+* [最新出炉：台大李宏毅老师关于ChatGPT原理剖析的三部曲](https://mp.weixin.qq.com/s/NCd0NeYQtCFGoTijQgfN1A)
+* [飞书聊天机器人](https://github.com/bestony/ChatGPT-Feishu)
+* [siri聊天机器人](https://github.com/Daiyimo/Access-chatGPT-in-Siri)
+* [钉钉聊天机器人](https://github.com/eryajf/chatgpt-dingtalk)
+* [google显示chatgpt结果的插件](https://github.com/wong2/chatgpt-google-extension)
+* [chatgpt vscode插件](https://github.com/mpociot/chatgpt-vscode)
+* [chatgpt搭建微信聊天机器人](https://github.com/zhayujie/chatgpt-on-wechat)
+* [ChatGPT应用开发的无限可能](https://mp.weixin.qq.com/s/WdsgnUiaXRnIo1VELbfQJA)
+* [ChatGPT版本小爱同学](https://github.com/yihong0618/xiaogpt)
+* [从0开始学AI，深扒ChatGPT技术原理](https://mp.weixin.qq.com/s/19sTGs_MKCn70CoX2-GKBw)
+* [火爆工具chatpdf原理解析](https://mp.weixin.qq.com/s/MdOOw0d44A-6OTw8lQVBBw)
+* [0编程基础搭建属于自己的 AI 产品](https://m.okjike.com/originalPosts/63bedf6b5b351a0c1425c368?s=eyJ1IjoiNTk4YWY2YThjZjdjODYwMDEwZjk3OWI1IiwiZCI6Mn0%3D&utm_source=wechat_session)
+* [chatgpt api接口调用方法及案例](https://github.com/transitive-bullshit/chatgpt-api)
+* [微信小程序聊天机器人](https://github.com/xenice/chat)
+* [chatgpt qq聊天机器人](https://github.com/lss233/chatgpt-mirai-qq-bot)
+* [twitter聊天机器人](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
+* [用语音和chatgpt对话](https://github.com/platelminto/chatgpt-conversation)
+* [可联网chatpt chrome插件](https://github.com/qunash/chatgpt-advanced)
+* [chatgpt生成页面内容摘要的的浏览器插件](https://github.com/clmnin/summarize.site)
+* [把chatgpt集成到每一个文本框中的浏览器插件](https://github.com/gragland/chatgpt-chrome-extension)
+* [供google doc和word用的chatgpt插件](https://github.com/cesarhuret/docGPT)
 
-victor.xsyang@gmail.com
+## 商业变现
+* [可能是我的最后一篇稿子：怎么用ChatGPT发大财？](https://mp.weixin.qq.com/s/zebOJum1SPcHTufFf0v7uA)
+* [如何用ChatGPT赚钱](https://mp.weixin.qq.com/s/0330uatpzmNbgdC2EJYlDQ)
+* [ChatGPT赚钱变现的15种方法](https://mp.weixin.qq.com/s/KTR-btums72l7rte6Ix4Rw)
+* [关于ChatGPT，以下几种“智商税”再勿上当](https://mp.weixin.qq.com/s/5M2-H5jbsMHrD8nnuXBvng)
+  
+## 作品案例
+* [英文提示产品](https://flowgpt.com/)
+* [如何用 ChatGPT 帮你写 Python 爬虫？实际样例循序渐进手把手教程](https://www.bilibili.com/video/BV14T411Z7FE/?share_source=copy_web&vd_source=b68f853f829d65fae4ec428042e47343)
+* [和ChatGPT的有趣对话](https://www.douban.com/gallery/topic/3382497/?target_type=gallery_topic&target_id=3382497&dt_dapp=1&dt_platform=wechat_friends)
+* [ChatGPT 有哪些神奇的使用方式？](https://www.zhihu.com/question/570729170)
+* [AIGC开源分析库 v1.2](https://docs.qq.com/sheet/DRE5jalZKeVZzQlFj?tab=BB08J2)
+* [chatexcel](https://chatexcel.com/)
+* [ChatGPT搭配闪击PPT三分钟生成PPT，你只需要输入一个标题](https://www.bilibili.com/video/BV1oj411G7QV/?buvid=XY7578679B3EEA5E354FF3AE7D175D0B2D0A8&is_story_h5=false&mid=cRIgADjQKSzWKFzSzFpT3g%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=19e70d03-7376-4c0e-a56d-d2e987449396&share_source=COPY&share_tag=s_i&timestamp=1677107863&unique_k=PjA23ZU&up_id=18075322&vd_source=8c55c7e993fe66a3a4aea0139d4cd8c5)
+* [如何利用ChatGPT做推广？](https://mp.weixin.qq.com/s/5jUUrZLKJCoN6rwdKE2pHw)
+* [如何把ChatGPT变成MySQL数据库](https://mp.weixin.qq.com/s/5KpuItO0ThxiwD8QinB1_Q)
+* [中小学教师 ChatGPT的30种用法](https://mp.weixin.qq.com/s/PXA4zGs0nDfeSKw3JKBDig)
+* [零基础开始用ChatGPT助手辅助写论文实践记录](https://www.toutiao.com/article/7193735797923660346/)
+* [ChatGPT模拟一位创业者创业过程演练](https://www.toutiao.com/article/7195463632434627133/?log_from=20e8372115d32_1676736847496)
+* [ChatGPT模拟一个法律百科中心，可以查询中外法律和对应法条](https://www.toutiao.com/article/7196268325473976887/?log_from=18a193da07d7a8_1676737054004)
+* [新方法：利用chatgpt写百万字级小说](https://www.toutiao.com/article/7201158538042016268/?channel=&source=news)
+* [AIGC.CN中文导航收录全球AI工具](https://aigc.cn/)
+* [人工智能工具平台](https://www.ainav.cn/)
+* [一起用AI，工具搜索平台](https://17yongai.com/)
+* [ChatGPT, Generative AI and GPT-3 Apps and use cases.](https://gpt3demo.com/)
+* [Youtube+Chatgpt插件](https://chrome.google.com/webstore/detail/glarity-summary-for-googl/cmnlolelipjlhfkhpohphpedmkfbobjc)
+* [ChatGPT 加 VR 全真环境练习英语口语听力](https://www.bilibili.com/video/BV16Y4y117Jo/?share_source=copy_web&vd_source=bafe63ac0f8b163d98a5e91b3a1c737c)
+* [零基础让 ChatGPT 帮你做PPT](https://web.okjike.com/originalPost/63f842f14fa545a27be9b0f2)
+* [利用ChatGPT+RPA，实现知乎7x24小时不间断自动答题](https://www.bilibili.com/video/BV1Ee4y1w7aE/?vd_source=8d9465b4aa04ba5467338adad8dbf887#reply651777723)
+* [周报生成器](https://aicodehelper.com/tools/index.html#/)
+* [ChatGPT修bug横扫全场，准确率达78%！网友：程序员要开心了](https://mp.weixin.qq.com/s/T_3e1M9hkvCyaZsN2Wy3tg)
+* [再记公式弱爆了！用ChatGPT处理Excel问题，效率狂升](https://mp.weixin.qq.com/s/lVsHB2lc4DgWZI2S5SiWLQ)
+* [我用ChatGPT写神经网络：一字不改，结果竟然很好用](https://mp.weixin.qq.com/s/3c6843aIVKI_B597fg2-wQ)
+* [chatGPT写SEO文章SOP全流程](https://mp.weixin.qq.com/s/XMKZG0jb45exITTzHgoqRA)
+* [ChatGPT将彻底改变咨询行业](https://mp.weixin.qq.com/s/45S25ztA673Nlf9H0lxAfg)
+* [ChatGPT还能写研报？有券商实测了：文辞优美，但有三大问题！](https://mp.weixin.qq.com/s/k0Uo1vMTY9vX-nDwU5tb8g)
+* [公关会下岗吗？ChatGPT回答了20个公关问题](https://mp.weixin.qq.com/s/115dbK2VvOuP7nq2XX-XZw)
+* [作为一名运维工程师，我对 ChatGPT 的一些看法](https://mp.weixin.qq.com/s/66lNmKQVQDMelHFj2H5zAA)
+* [ChatGPT助手写一篇关于粤港澳大湾区2035区域现代化战略规划记录](https://www.toutiao.com/article/7193578641342054967/)
+* [用ChatGPT写一本关于微成功的书籍《tiny success》实践记录](https://www.toutiao.com/article/7193326307252404792/?log_from=3cba3b92a5e7c_1676735089605)
+* [ChatGPT辅助功能创造公式，十倍百倍提高效率，更节约时间和精力](https://www.toutiao.com/article/7193464796849914405/)
+* [用ChatGPT模拟学生成长平台，像老师家长一样指导孩子成长](https://www.toutiao.com/article/7193896500307788349/?log_from=13da84cd1d50b8_1676735735421)
+* [《失落文明的回声》ChatGPT零基础轻松写短篇科幻小说](https://www.toutiao.com/article/7194601030947095098/?log_from=3e3a974ba81f58_1676736190526)
+* [ChatGPT虚拟斯坦福大学教授教你学习斯坦福商学院课程](https://www.toutiao.com/article/7194618620121465400/?log_from=f35e81e1f70a5_1676736581651)
+* [问ChatGPT普通人如何逆袭过好自己的一生](https://www.toutiao.com/article/7196100699607024189/?log_from=87a2d7b0caf58_1676736919931)
+* [ChatGPT模拟产业数据库和商业数据库寻找创业思路](https://www.toutiao.com/article/7196758074579894845/?log_from=aae339c83ce3_1676737137264)
+* [用ChatGPT扮演投资经理做行业研究](https://www.toutiao.com/article/7197984834902508069/?log_from=25fa9a346246d_1676737183322)
+* [ChatGPT模拟Python专家教你3分钟设计编写爬虫引擎程序](https://www.toutiao.com/article/7200889476627907129/?log_from=df5ed26d54c728_1676737317324)
+* [ChatGPT虚拟为谷歌Python技术专家写万能格式转化工具（1）](https://www.toutiao.com/article/7201367596502221372/?log_from=01dd74eacef03_1676737373450)
+* [用ChatGPT能否写一本小说，我们试了试](https://www.toutiao.com/article/7198116618377953803/?channel=&source=news)
+* [用来ChatGPT写玄幻小说，可行吗？](https://www.toutiao.com/article/7198116618377953803/?channel=&source=news)
+* [使用ChatGPT自动编写Python爬虫脚本](https://zhuanlan.zhihu.com/p/606681098)
+* [The Complete Resource Of Artificial Intelligence Tools & Services](https://allthingsai.com/)
+* [THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY](https://www.futurepedia.io/)
+* [Full ChatGPT Prompts + Resources](https://enchanting-trader-463.notion.site/Full-ChatGPT-Prompts-Resources-8aa78bb226b7467ab59b70d2b27042e9)
+* [No.1 - 关于 AI 的 107 个人，61 个工具和 28 个通讯](https://mp.weixin.qq.com/s/Gjts6U3KgjVsW3fXYjHtcQ)
+* [ChatGPT来啦](https://www.bilibili.com/list/group/120002/301002)
+* [Learn Prompting Resource Database](https://www.notion.so/74f8417345cc447cb0535112b949fd8f)
 
-# 个人博客
+## 新闻话题
+* [ChatGPT 爆火带动全新职业提示工程师，提示工程有多重要？未来该职业走向如何？](https://www.zhihu.com/question/585294957)
+* [重磅！Open AI开放ChatGPT模型API，“全民AIGC大时代”要来了！](https://mp.weixin.qq.com/s/TQTjLvmRNp3fuBzDmeatwQ)
+* [ChatGPT 这个风口，普通人怎么抓住？](https://www.zhihu.com/question/582326598)
+* [ChatGPT 有哪些神奇的使用方式？](https://www.zhihu.com/question/570729170)
+* [微软德国首席技术官 Andreas Braun 表示，GPT-4 将于下周推出](https://mp.weixin.qq.com/s/yo47lOtUGMMtOBPT4XqqpA)
+* [香港大学宣布禁用ChatGPT](https://m.weibo.cn/status/4870616702788642?sudaref=hf0y97ff1r.feishu.cn)
+* [周鸿祎称 ChatGPT 可能两三年内就会产生自我意识威胁人类， ChatGPT 存在哪些安全问题？](https://www.zhihu.com/question/585757225?utm_campaign=Sharon&utm_medium=social&utm_oi=792817096856842240&utm_psn=1612465296727666688&utm_source=wechat_session&utm_content=group3_supplementQuestions)
+* [微软 ChatGPT 版 Bing 上线了，使用体验如何？符合你的需求吗？](https://www.zhihu.com/question/583588366)
+* [如何评价 ChatGPT ？会取代搜索引擎吗？](https://www.zhihu.com/question/570062224)
+* [OpenAI CEO:将发布工具让用户定制AIGC系统](https://m.163.com/tech/article/HVF0CG7A00097U7T.html?spss=adap_pc)
 
-https://blog.csdn.net/u010665216?type=blogF
+# Midjourney
+
+## 科普认知
+* [Midjourney新手必读](https://17yongai.com/760.html)
+
+## 使用技巧
+* [如何注册使用Midjourney](https://17yongai.com/809.html)
+* [Midjourney基本指令](https://17yongai.com/776.html)
+* [Midjourney常用技巧](https://17yongai.com/823.html)
+* [快速掌握 Midjourney AI 画图神奇用法](https://www.yuque.com/xuqiang-8toks/bxk2rk/lzrhkag4ssii0uog)
+
+
+## 技术教程
+* [快速掌握 Midjourney AI 画图神奇用法](https://www.yuque.com/xuqiang-8toks/bxk2rk/iukn83kodog4vkll)
+
+
+## 作品案例
+* [人类还剩几集可以逃？ChatGPT + Midjourney + Clipchamp AI大军联合玩内容创作 (文稿/插图/配乐/配音/字幕全包)](https://www.bilibili.com/video/BV1wW4y1G7a3/?share_source=copy_web&vd_source=b68f853f829d65fae4ec428042e47343)
+* [2天300+作品，Midjourney将彻底颠覆食品包装设计！](https://mp.weixin.qq.com/s/b1v2Jp04119bDeyuBLv_Iw)
+
+## 新闻话题
+* [Ai绘画半年了，到目前为止，AI绘画让多少画师失业了？未来又会有多少?](https://www.zhihu.com/question/583294094)
+
+
+# AIGC
+## 技术教程
+* [AI中文大模型汇总](https://zhuanlan.zhihu.com/p/427882877)
+
+# 文心一言
+
+## 科普认知
+* [百度文心一言全攻略](./docs/Investigations/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80%E5%85%A8%E6%94%BB%E7%95%A5.pdf)
+
+## 新闻话题
+* [我们让文心一言写了一封邀请函](https://mp.weixin.qq.com/s/0OpGtP0nv4bKLZqRvCoyZw)
+
+
 
 
 # 技术交流群
