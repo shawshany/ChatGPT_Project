@@ -20,6 +20,7 @@
 
 
 ## ChatGPT注册方法及Plus升级方法
+* [预测“叫停GPT-4后续AI大模型”后续：这是一个囚徒困境](https://xiaosheng.blog.csdn.net/article/details/129842980)
 * [ChatGPT注册教程](https://wvjj4la592.feishu.cn/docx/G7PHddfuuoBW78x38s9c2H8bnvd)
 * [国内升级ChatGPT Plus保姆级教](https://wvjj4la592.feishu.cn/docx/BWL5d5xUmoryt3xrK9lcxZCUnHb)
 
