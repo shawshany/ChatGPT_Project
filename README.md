@@ -20,7 +20,6 @@
 
 
 ## ChatGPT注册方法及Plus升级方法
-* [预测“叫停GPT-4后续AI大模型”后续：这是一个囚徒困境](https://xiaosheng.blog.csdn.net/article/details/129842980)
 * [ChatGPT注册教程](https://wvjj4la592.feishu.cn/docx/G7PHddfuuoBW78x38s9c2H8bnvd)
 * [国内升级ChatGPT Plus保姆级教](https://wvjj4la592.feishu.cn/docx/BWL5d5xUmoryt3xrK9lcxZCUnHb)
 
@@ -62,6 +61,7 @@
 
 
 ## 网络文章科普
+* [预测“叫停GPT-4后续AI大模型”后续：这是一个囚徒困境](https://xiaosheng.blog.csdn.net/article/details/129842980)
 * [宇宙最强-GPT-4 横空出世：最先进、更安全、更有用
 ](https://blog.csdn.net/u010665216/article/details/129549856?spm=1001.2014.3001.5501)
 * [怎样用一周时间研究ChatGPT](https://mp.weixin.qq.com/s/obVI3ENpMgaq4AKZs6Hw1w)
