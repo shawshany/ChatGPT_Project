@@ -1,6 +1,6 @@
 # ChatGPT&AIGC 全网最详细的资料汇总【持续更新中】
 
-## 扫码加入知识星球【免费ChatGPT独享账号已送完，现在加群可赠送免费搭建镜像站指导手册（不翻墙也能使用ChatGPT）】
+## 扫码加入知识星球【免费ChatGPT独享账号已送完，现在加社群可赠送免费搭建镜像站指导手册（不翻墙也能使用ChatGPT）】
 扫码加入【ChatGPT&AIGC知识星球】和行业大咖一起交流探讨，在星球中，我们收集了目前全网最详细的资料！从案例到教程，从开源项目到商业变现案例，应有尽有！
 
 我们汇聚了来自**阿里、字节、百度**等知名企业核心部门的负责人，**浙江大学藕舫天使投资的创始人**，以及**资深猎头**等专业人士，创建了ChatGPT & AIGC研讨社知识星球。
@@ -68,7 +68,7 @@
 * [OpenAI 团队对话实录：ChatGPT 很酷，但它还很糟糕](https://www.ifanr.com/app/1538232)
 * [ChatGPT中国变形记｜深氪](https://36kr.com/p/2137546486548612?channel=wechat)
 * [ChatGPT将如何改变我们的学习？知识工作者越早知道越好](https://mp.weixin.qq.com/s/ApKvL_LfPASFWcIdOi4caQ)
-* [https://mp.weixin.qq.com/s/7mmcbAPZqYqnOH4d4g7CGw](https://mp.weixin.qq.com/s/7mmcbAPZqYqnOH4d4g7CGw)
+* [万字长文：ChatGPT能否成为互联网后下一个系统性机会？](https://mp.weixin.qq.com/s/7mmcbAPZqYqnOH4d4g7CGw)
 * [万字长文，探讨关于ChatGPT的五个最核心问题](https://redian.news/wxnews/298125)
 * [ChatGPT再出“王炸”，客服都要下岗了？](https://36kr.com/p/2156445171556361?channel=wechat)
 * [AIGC“尖峰系列”丨李维博士：人类语言“通天塔”建成，ChatGPT的辉煌与挑战](https://mp.weixin.qq.com/s/X2buMts9ZJ4MKgvZCvPJEA)
