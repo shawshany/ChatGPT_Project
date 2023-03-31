@@ -61,9 +61,6 @@
 
 
 ## 网络文章科普
-* [预测“叫停GPT-4后续AI大模型”后续：这是一个囚徒困境](https://xiaosheng.blog.csdn.net/article/details/129842980)
-* [宇宙最强-GPT-4 横空出世：最先进、更安全、更有用
-](https://blog.csdn.net/u010665216/article/details/129549856?spm=1001.2014.3001.5501)
 * [怎样用一周时间研究ChatGPT](https://mp.weixin.qq.com/s/obVI3ENpMgaq4AKZs6Hw1w)
 * [OpenAI 团队对话实录：ChatGPT 很酷，但它还很糟糕](https://www.ifanr.com/app/1538232)
 * [ChatGPT中国变形记｜深氪](https://36kr.com/p/2137546486548612?channel=wechat)
@@ -85,6 +82,20 @@
 * [万字长文：产品经理视角下的AI绘画全解析](https://mp.weixin.qq.com/s/7u07Wp4CfeIOCNWn4bxtVQ)
 * [关于ChatGPT八个技术问题的猜想](https://mp.weixin.qq.com/s/n_d_NzYf-DgmmJNY8rm4Sw)
 * [深度思考：AIGC这波技术狂潮能否商业化落地？（内含思维导图）](https://mp.weixin.qq.com/s?__biz=MzUxNTg3NjA5Mg==&mid=2247483839&idx=1&sn=db2eb28a83ac449d0d92af2929aa622d&chksm=f9aeb42cced93d3aad4c8a36b53f6842de593af3df740d084e7efcf864fe4ac171e839446e26&scene=21#wechat_redirect)
+
+## 个人博客ChatGPT专区
+* [预测“叫停GPT-4后续AI大模型”后续：这是一个囚徒困境](https://xiaosheng.blog.csdn.net/article/details/129842980)
+* [宇宙最强-GPT-4 横空出世：最先进、更安全、更有用](https://blog.csdn.net/u010665216/article/details/129549856?spm=1001.2014.3001.5501)
+* [ChatGPT探索系列之一：ChatGPT的背景和应用领域](https://xiaosheng.blog.csdn.net/article/details/129865958)
+* [Google Bard VS ChatGPT：哪个是更好的AI聊天机器人？](https://xiaosheng.blog.csdn.net/article/details/129720538)
+* [手把手教你如何使用AI绘画：Stable-Diffusion本地化部署及使用教程](https://xiaosheng.blog.csdn.net/article/details/129694899)
+* [“国产版ChatGPT”文心一言发布会现场Demo硬核复现](https://xiaosheng.blog.csdn.net/article/details/129626509)
+* [“国货之光”文心一言正式发布：百度大语言模型背后那些不为人知的细节](https://xiaosheng.blog.csdn.net/article/details/129604487)
+* [不写代码、年薪百万，带你玩赚ChatGPT提示工程-提示应用程序](https://xiaosheng.blog.csdn.net/article/details/129368427)
+* [不写代码、年薪百万，带你玩赚ChatGPT提示工程-高级提示](https://xiaosheng.blog.csdn.net/article/details/129327485)
+* [不写代码、年薪百万，带你玩赚ChatGPT提示工程-基本提示](https://xiaosheng.blog.csdn.net/article/details/129291872)
+* [不写代码、年薪百万，带你玩赚ChatGPT提示工程-介绍](https://xiaosheng.blog.csdn.net/article/details/129272243)
+
 
 ## 使用技巧 提示工程
 * [chatgpt提示工程专栏：不写代码、年薪百万，带你玩赚ChatGPT提示工程](https://blog.csdn.net/u010665216/category_12217154.html)
