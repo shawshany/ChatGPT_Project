@@ -6,7 +6,9 @@
 
 * 如果账号感觉注册困难，想要付费购买的，可以加我微信，拉你入群并咨询群里管理员“郑小鹿”
 
-## [技术科普及相关调研-pdf](./docs/Investigations/)
+## [技术科普及相关调研](./docs/Investigations/)
+* [创新奇智，做工业制造的ChatGPT｜甲子光年](https://www.jazzyear.com/article_info.html?id=970)
+* [20+大咖激辩中国AIGC产业！现场人挤人，超200万在线网友：「有必要完整再看一遍」](https://mp.weixin.qq.com/s/mXmjt5xwZIGfLjpN-vbPsA)
 * [ChatGPT 研究框架（2023）-国泰君安.pdf](./docs/Investigations/ChatGPT%20研究框架（2023）-%20国泰君安.pdf)
 * [ChatGPT研究框架-230214-浙商证券.pdf](./docs/Investigations/ChatGPT研究框架-230214-浙商证券.pdf)
 * [ChatGPT: 重新定义搜索“入口”-华西证券.pdf](./docs/Investigations/ChatGPT-%20重新定义搜索“入口”-华西证券.pdf)
