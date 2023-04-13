@@ -86,6 +86,11 @@
 
 
 ## 使用技巧 提示工程
+* [lama-cleaner 图片修复工具 可擦除替换图片中的任何内容](https://github.com/Sanster/lama-cleaner)
+* [docker-prompt-generator 模型生成提示词](https://github.com/soulteary/docker-prompt-generator)
+* [JARVIS 一个AI框架集中各类社区开源资源](https://github.com/microsoft/JARVIS)
+* [burpgpt 集成gpt 的一个扩展，用于流量分析，漏洞发现](https://github.com/aress31/burpgpt)
+* [chatGPTBox Chatgpt 浏览器扩展](https://github.com/josStorer/chatGPTBox)
 * [chatgpt提示工程专栏：不写代码、年薪百万，带你玩赚ChatGPT提示工程](https://blog.csdn.net/u010665216/category_12217154.html)
 * [ChatGPT中国应用社区实践总结出来的独创问答预设输入方法](https://www.toutiao.com/article/7196135906489811515/?log_from=f6cceebf264ce8_1676736989327)
 * [Prompt模版市场：DALL·E, GPT-3, Midjourney, Stable Diffusion, ChatGPT Prompt Marketplace](https://promptbase.com/)
