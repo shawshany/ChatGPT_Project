@@ -67,6 +67,7 @@
 * [深度思考：AIGC这波技术狂潮能否商业化落地？（内含思维导图）](https://mp.weixin.qq.com/s?__biz=MzUxNTg3NjA5Mg==&mid=2247483839&idx=1&sn=db2eb28a83ac449d0d92af2929aa622d&chksm=f9aeb42cced93d3aad4c8a36b53f6842de593af3df740d084e7efcf864fe4ac171e839446e26&scene=21#wechat_redirect)
 
 ## 个人博客ChatGPT专区
+* [【AI浪潮下的挑战和机遇】许多职业即将消失，AI 即将战胜人类了吗？](https://xiaosheng.blog.csdn.net/article/details/130140609)
 * [ChatGPT探索系列之四：分析ChatGPT在各领域的实际案例](https://xiaosheng.blog.csdn.net/article/details/130067699)
 * [ChatGPT探索系列之三：探究ChatGPT的训练、优化和应用方法](https://xiaosheng.blog.csdn.net/article/details/130042500)
 * [手把手带你玩转Midjourney AI绘画：零门槛学习Midjourney AI绘画](https://xiaosheng.blog.csdn.net/article/details/129923264?spm=1001.2014.3001.5502)
