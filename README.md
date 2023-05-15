@@ -67,6 +67,8 @@
 * [深度思考：AIGC这波技术狂潮能否商业化落地？（内含思维导图）](https://mp.weixin.qq.com/s?__biz=MzUxNTg3NjA5Mg==&mid=2247483839&idx=1&sn=db2eb28a83ac449d0d92af2929aa622d&chksm=f9aeb42cced93d3aad4c8a36b53f6842de593af3df740d084e7efcf864fe4ac171e839446e26&scene=21#wechat_redirect)
 
 ## 个人博客ChatGPT专区
+* [Auto_GPT：如何使用Auto-GPT、安装、开发](https://xiaosheng.blog.csdn.net/article/details/130607418)
+* [Auto-GPT：揭示 ChatGPT、GPT-4 和开源 AI 之间的联系](https://xiaosheng.blog.csdn.net/article/details/130567814)
 * [ChatGPT探索系列之六：思考ChatGPT的未来发展趋势和挑战](https://xiaosheng.blog.csdn.net/article/details/130303656)
 * [ChatGPT探索系列之五：讨论人工智能伦理问题及ChatGPT的责任](https://xiaosheng.blog.csdn.net/article/details/130300361)
 * [【AI浪潮下的挑战和机遇】许多职业即将消失，AI 即将战胜人类了吗？](https://xiaosheng.blog.csdn.net/article/details/130140609)
