@@ -67,7 +67,7 @@
 * [深度思考：AIGC这波技术狂潮能否商业化落地？（内含思维导图）](https://mp.weixin.qq.com/s?__biz=MzUxNTg3NjA5Mg==&mid=2247483839&idx=1&sn=db2eb28a83ac449d0d92af2929aa622d&chksm=f9aeb42cced93d3aad4c8a36b53f6842de593af3df740d084e7efcf864fe4ac171e839446e26&scene=21#wechat_redirect)
 
 ## 个人博客ChatGPT专区
-* [https://blog.csdn.net/u010665216/article/details/130805950?spm=1001.2014.3001.5501](https://blog.csdn.net/u010665216/article/details/130805950?spm=1001.2014.3001.5501)
+* [【限时开放！99元交个朋友】ChatGPT & AIGC研讨社拉新！](https://xiaosheng.blog.csdn.net/article/details/130805950)
 * [Auto_GPT：如何使用Auto-GPT、安装、开发](https://xiaosheng.blog.csdn.net/article/details/130607418)
 * [Auto-GPT：揭示 ChatGPT、GPT-4 和开源 AI 之间的联系](https://xiaosheng.blog.csdn.net/article/details/130567814)
 * [ChatGPT探索系列之六：思考ChatGPT的未来发展趋势和挑战](https://xiaosheng.blog.csdn.net/article/details/130303656)
@@ -247,7 +247,7 @@
 ## 新闻话题
 * [我们让文心一言写了一封邀请函](https://mp.weixin.qq.com/s/0OpGtP0nv4bKLZqRvCoyZw)
 
-## 扫码加入知识星球【知识星球内容重大更新啦】
+## 扫码加入知识星球【知识星球内容重大更新啦，只要99元，限时特惠！】
 扫码加入【ChatGPT&AIGC知识星球】和行业大咖一起交流探讨，在星球中，我们收集了目前全网最详细的资料！从案例到教程，从开源项目到商业变现案例，应有尽有！
 
 随着星球的运营，我们逐步孵化产品并不断完善内容。在星球中，你可以获得：
