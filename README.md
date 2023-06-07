@@ -145,7 +145,12 @@
 * [如何用ChatGPT赚钱](https://mp.weixin.qq.com/s/0330uatpzmNbgdC2EJYlDQ)
 * [ChatGPT赚钱变现的15种方法](https://mp.weixin.qq.com/s/KTR-btums72l7rte6Ix4Rw)
 * [关于ChatGPT，以下几种“智商税”再勿上当](https://mp.weixin.qq.com/s/5M2-H5jbsMHrD8nnuXBvng)
-  
+
+## 大模型
+* [New Open-source LLMs 7B](https://huggingface.co/tiiuae/falcon-7b)
+* [New Open-source LLMs 40B](https://huggingface.co/tiiuae/falcon-40b)
+* 
+
 ## 作品案例
 * [英文提示产品](https://flowgpt.com/)
 * [如何用 ChatGPT 帮你写 Python 爬虫？实际样例循序渐进手把手教程](https://www.bilibili.com/video/BV14T411Z7FE/?share_source=copy_web&vd_source=b68f853f829d65fae4ec428042e47343)
