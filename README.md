@@ -199,6 +199,7 @@
 * [使用ChatGPT自动编写Python爬虫脚本](https://zhuanlan.zhihu.com/p/606681098)
 * [The Complete Resource Of Artificial Intelligence Tools & Services](https://allthingsai.com/)
 * [THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY](https://www.futurepedia.io/)
+* [RespawnStack — AI game tools directory for indie makers](https://respawnstack.com/)
 * [Full ChatGPT Prompts + Resources](https://enchanting-trader-463.notion.site/Full-ChatGPT-Prompts-Resources-8aa78bb226b7467ab59b70d2b27042e9)
 * [No.1 - 关于 AI 的 107 个人，61 个工具和 28 个通讯](https://mp.weixin.qq.com/s/Gjts6U3KgjVsW3fXYjHtcQ)
 * [ChatGPT来啦](https://www.bilibili.com/list/group/120002/301002)
